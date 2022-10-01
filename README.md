@@ -1,0 +1,2 @@
+# Calculator
+In this project we have computed the assembly language code (8086) to do the basic functions, I have simulated the programmed in emulator software. This is a microprocessor emulator with an integrated 8086 Assembler. The emulator can run programs on a Virtual Machine, and emulate real hardware including screen, memory, and input and output devices. It helps you program in assembly language. The source code is compiled by assembler and then executed on Emulator step-by-step, allowing you to watch registers, flags and memory while your program runs. 
